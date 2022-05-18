@@ -29,3 +29,5 @@ HTML
 3. Click enter for next question
 4. A teaminfo.html file will be updated with team profiles information
    ![start](./images/results.png)
+
+<a href="https://www.youtube.com/watch?v=xl5LKrRQV9c">Click for Video</a>
