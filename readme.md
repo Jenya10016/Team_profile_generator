@@ -27,5 +27,5 @@ HTML
    ![start](./images/questions.png)
 2. Fill out the questions presented
 3. Click enter for next question
-4. A teamino.html file will be updated with team profiles information
+4. A teaminfo.html file will be updated with team profiles information
    ![start](./images/results.png)
